@@ -1,1 +1,1 @@
-I'm Luca Heritiana TOBE and this my first java project.
+I'm Luca Heritiana TOBE and this is my first java project.
